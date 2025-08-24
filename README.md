@@ -14,4 +14,6 @@ uma da NVIDIA disponivel em: https://build.nvidia.com/
 uma do framework LangChain disponivel em: https://smith.langchain.com/
 
 Vídeo da explicação do código:
-falta adicionar
+https://drive.google.com/file/d/1uaGPf5xS2sygmw0RGXB5eDiqhslwjkdC/view?usp=sharing
+ou
+https://youtu.be/K2gp-WjxUI0
